@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"controller"},{"l":"demoPackage"},{"l":"model"},{"l":"vue.vueConsole"},{"l":"vue.vueGraphique"}];updateSearchResults();
